@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projetos\\AtletaOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40C76E99-FD27-46E4-90F5-3822919CF7F8}|AtletaOO\\AtletaOO.csproj|c:\\projetos\\atletaoo\\atletaoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C76E99-FD27-46E4-90F5-3822919CF7F8}|AtletaOO\\AtletaOO.csproj|solutionrelative:atletaoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projetos\\AtletaOO\\AtletaOO\\Program.cs",
+              "RelativeDocumentMoniker": "AtletaOO\\Program.cs",
+              "ToolTip": "C:\\projetos\\AtletaOO\\AtletaOO\\Program.cs",
+              "RelativeToolTip": "AtletaOO\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T21:38:24.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
